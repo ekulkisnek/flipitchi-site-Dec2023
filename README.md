@@ -1,7 +1,6 @@
 
 # FLIPITCHICAGO
-![image](image.png)
-
+![image](image_2.png)
 A simple landing page for Flipit Chicago, a wholesale and product development business.
 
 ## Description
